@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeInteractive.OTPEngine.Core", "VeInteractive.OTPEngine\VeInteractive.OTPEngine.Core.csproj", "{411A0E23-28ED-4B3F-8B4B-384F5507B4E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeInteractive.OTPEngine.Tests", "VeInteractive.OTPEngine.Tests\VeInteractive.OTPEngine.Tests.csproj", "{7E59CA66-E202-4619-B8E8-FE32B9EB90DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{411A0E23-28ED-4B3F-8B4B-384F5507B4E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{411A0E23-28ED-4B3F-8B4B-384F5507B4E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{411A0E23-28ED-4B3F-8B4B-384F5507B4E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{411A0E23-28ED-4B3F-8B4B-384F5507B4E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E59CA66-E202-4619-B8E8-FE32B9EB90DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E59CA66-E202-4619-B8E8-FE32B9EB90DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E59CA66-E202-4619-B8E8-FE32B9EB90DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E59CA66-E202-4619-B8E8-FE32B9EB90DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
