@@ -1,4 +1,9 @@
-﻿namespace VeInteractive.OTPEngine.Configuration
+﻿/********************************************
+ ** Author: Robert Carr                    **
+ ** Code Test Submission for VeInteractive **
+ ********************************************/
+
+namespace VeInteractive.OTPEngine.Configuration
 {
     public interface IConfiguration
     {

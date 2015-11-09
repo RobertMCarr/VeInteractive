@@ -1,4 +1,9 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿/********************************************
+ ** Author: Robert Carr                    **
+ ** Code Test Submission for VeInteractive **
+ ********************************************/
+ 
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
 using System.Collections.Generic;
 using System.Threading;

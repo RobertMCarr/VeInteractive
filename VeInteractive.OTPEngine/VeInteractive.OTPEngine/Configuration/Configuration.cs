@@ -1,4 +1,8 @@
-﻿
+﻿/********************************************
+ ** Author: Robert Carr                    **
+ ** Code Test Submission for VeInteractive **
+ ********************************************/
+
 using System.Configuration;
 
 namespace VeInteractive.OTPEngine.Configuration

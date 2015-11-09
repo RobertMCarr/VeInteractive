@@ -1,4 +1,9 @@
-﻿using System;
+﻿/********************************************
+ ** Author: Robert Carr                    **
+ ** Code Test Submission for VeInteractive **
+ ********************************************/
+
+using System;
 using VeInteractive.OTPEngine.Configuration;
 using VeInteractive.OTPEngine.DataStorage;
 

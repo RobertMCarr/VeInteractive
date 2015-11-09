@@ -1,4 +1,9 @@
-﻿namespace VeInteractive.OTPEngine
+﻿/********************************************
+ ** Author: Robert Carr                    **
+ ** Code Test Submission for VeInteractive **
+ ********************************************/
+ 
+ namespace VeInteractive.OTPEngine
 {
     public interface IOneTimePasswordService
     {
